@@ -31,7 +31,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.msyos.enterprise.msyos</string>
+				<string>com.msyos.mobile.ti.msyos</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
